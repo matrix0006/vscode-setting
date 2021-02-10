@@ -1,0 +1,69 @@
+{
+    "workbench.colorTheme": "Outrun Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.suggest.autoImports": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "highlight-matching-tag.styles": {
+        "opening": {
+            "left": {
+                "custom": {
+                    "borderWidth": "0 0 0 3px",
+                    "borderStyle": "solid",
+                    "borderColor": "yellow",
+                    "borderRadius": "5px",
+                    "overviewRulerColor": "yellow"
+                }
+            },
+            "right": {
+                "custom": {
+                    "borderWidth": "0 3px 0 0",
+                    "borderStyle": "solid",
+                    "borderColor": "yellow",
+                    "borderRadius": "5px",
+                    "overviewRulerColor": "yellow"
+                }
+            }
+        }
+    },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.useSystemClipboard": true,
+    "vim.leader": "<space>",
+    "vim.easymotionMarkerBackgroundColor": "black",
+    "vim.easymotionMarkerForegroundColorOneChar": "#f542e0",
+    "vim.easymotionMarkerForegroundColorTwoCharFirst": "#f542e0",
+    "vim.easymotionMarkerForegroundColorTwoCharSecond": "#f542e0",
+    "vim.easymotion": true,
+    "explorer.confirmDelete": false,
+    "editor.lineNumbers": "relative",
+    "workbench.editorAssociations": [
+    
+    ],
+    "vim.commandLineModeKeyBindings": [
+        
+    
+    
+    ],
+    "vim.changeWordIncludesWhitespace": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.ignoreRecommendations": false,
+    "files.autoSave": "off"
+}
